@@ -1,3 +1,13 @@
 
 # comando para criar projeto react, o . é para dizer que o projeto deve ser a propria pasta em que ele esta sendo executado
 npx create-react-app .
+
+npm install react-router-dom
+
+npm install -D tailwindcss@3.4.17 postcss autoprefixer
+npx tailwindcss init -p
+
+
+npm install
+
+npm start
