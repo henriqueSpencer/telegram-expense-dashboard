@@ -1,0 +1,3 @@
+
+# comando para criar projeto react, o . é para dizer que o projeto deve ser a propria pasta em que ele esta sendo executado
+npx create-react-app .
